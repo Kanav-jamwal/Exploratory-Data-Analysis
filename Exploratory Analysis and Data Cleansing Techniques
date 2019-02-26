@@ -1,0 +1,9 @@
+Exploratory Analysis and Data Cleansing Techniques
+
+The Project aims at finding the errors in the Drone information provided through Exploratory Data Analysis using Python.
+
+Input: Drone_Data.csv
+
+Ouput: Clean_file
+
+The details of the execution are provided in the .ipynb file
